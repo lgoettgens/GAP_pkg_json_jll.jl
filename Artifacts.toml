@@ -1,0 +1,92 @@
+[[GAP_pkg_json]]
+arch = "aarch64"
+git-tree-sha1 = "729234511da8d744b27346ada1ea0df856785fb9"
+os = "macos"
+
+    [[GAP_pkg_json.download]]
+    sha256 = "a19b890c90a1fa5b76be5b664366747ef53879045d9f9ac717c79086467a7109"
+    url = "https://github.com/lgoettgens/GAP_pkg_json_jll.jl/releases/download/GAP_pkg_json-v201.20300.1+0/GAP_pkg_json.v201.20300.1.aarch64-apple-darwin.tar.gz"
+[[GAP_pkg_json]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "14563f833dfa50bb41fbc46e2ebee023e38191c0"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_json.download]]
+    sha256 = "1628ee6a28e98a831e1341d73cf3fa9cdeddce1478f1bf6bc1f5ba79e80bc3f4"
+    url = "https://github.com/lgoettgens/GAP_pkg_json_jll.jl/releases/download/GAP_pkg_json-v201.20300.1+0/GAP_pkg_json.v201.20300.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_json]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6ea3af181ee1e763e04054d9d695368c6b63f961"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_json.download]]
+    sha256 = "e63e02be16817c6cac2ed666fed69191b1b217dd85d507a4d81b15f32e733d0b"
+    url = "https://github.com/lgoettgens/GAP_pkg_json_jll.jl/releases/download/GAP_pkg_json-v201.20300.1+0/GAP_pkg_json.v201.20300.1.aarch64-linux-musl-cxx11.tar.gz"
+[[GAP_pkg_json]]
+arch = "aarch64"
+git-tree-sha1 = "19c94449ccb941a566a2384ad3861a8692c248ce"
+os = "freebsd"
+
+    [[GAP_pkg_json.download]]
+    sha256 = "ea927e811881e341ee9cec911a107976b35b8de78e8b7685f7a1c1b6dc2337cc"
+    url = "https://github.com/lgoettgens/GAP_pkg_json_jll.jl/releases/download/GAP_pkg_json-v201.20300.1+0/GAP_pkg_json.v201.20300.1.aarch64-unknown-freebsd.tar.gz"
+[[GAP_pkg_json]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0bc07fcd287b5e9d6cfc57b6fe2bf21380f1ce65"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_json.download]]
+    sha256 = "06613f4a2ccd1fe2707573a2e03539dfced6e155d5731ec3c21d1f3ba0476392"
+    url = "https://github.com/lgoettgens/GAP_pkg_json_jll.jl/releases/download/GAP_pkg_json-v201.20300.1+0/GAP_pkg_json.v201.20300.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_json]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5d678e32bb1767533ffd3cf93f91ebad4584e94b"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_json.download]]
+    sha256 = "08d9cb937ae4327f23413f63927b9750b0c5942f1d96a3a4bd6124519b4bd7bf"
+    url = "https://github.com/lgoettgens/GAP_pkg_json_jll.jl/releases/download/GAP_pkg_json-v201.20300.1+0/GAP_pkg_json.v201.20300.1.riscv64-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_json]]
+arch = "x86_64"
+git-tree-sha1 = "e518529b28344787fa49ca0111895a16ff602f5a"
+os = "macos"
+
+    [[GAP_pkg_json.download]]
+    sha256 = "2e029d65f2bf64c722092c99da01b1b59950a549a0c2b19cb009a9b7a4e32ac2"
+    url = "https://github.com/lgoettgens/GAP_pkg_json_jll.jl/releases/download/GAP_pkg_json-v201.20300.1+0/GAP_pkg_json.v201.20300.1.x86_64-apple-darwin.tar.gz"
+[[GAP_pkg_json]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "878580aa516a255da76ec4dd644efb90570d12c8"
+libc = "glibc"
+os = "linux"
+
+    [[GAP_pkg_json.download]]
+    sha256 = "7767b7568b2e7971ada0d6e4579b0a395c3847f3199564d8a93225055416b75a"
+    url = "https://github.com/lgoettgens/GAP_pkg_json_jll.jl/releases/download/GAP_pkg_json-v201.20300.1+0/GAP_pkg_json.v201.20300.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[GAP_pkg_json]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a8c04cc23722a394e75e46a9f40e8b39565faba9"
+libc = "musl"
+os = "linux"
+
+    [[GAP_pkg_json.download]]
+    sha256 = "ae1063b5ce908e87bc6c493293324bf73c7ac53900f27a7f295bb198ec06fbcb"
+    url = "https://github.com/lgoettgens/GAP_pkg_json_jll.jl/releases/download/GAP_pkg_json-v201.20300.1+0/GAP_pkg_json.v201.20300.1.x86_64-linux-musl-cxx11.tar.gz"
+[[GAP_pkg_json]]
+arch = "x86_64"
+git-tree-sha1 = "c0ad474082d120d638a533741906d9fc01de4266"
+os = "freebsd"
+
+    [[GAP_pkg_json.download]]
+    sha256 = "59fd312f90a04dfb86540398ea437ef3e0d619512544434ed462d2cc0b5f86c0"
+    url = "https://github.com/lgoettgens/GAP_pkg_json_jll.jl/releases/download/GAP_pkg_json-v201.20300.1+0/GAP_pkg_json.v201.20300.1.x86_64-unknown-freebsd.tar.gz"
